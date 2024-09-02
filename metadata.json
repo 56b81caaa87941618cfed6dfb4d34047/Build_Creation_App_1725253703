@@ -4,5 +4,6 @@
     "project_description": "an app for making the Build",
     "creation_time": "2024-09-02 05:08:23.200939",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vibrant, futuristic color palette dominated by pinks and purples, with a surreal, cosmic style that includes a large moon, two smaller celestial bodies, and an ethereal landscape with jagged mountains and reflective water."
 }
